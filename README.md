@@ -1,13 +1,4 @@
-# Firebase Cloud Functions for HyperTrack Ridesharing sample app
-
-This repository contains Firebase Cloud Functions that create and complete trips and manage orders for Ridesharing apps for [iOS](https://github.com/hypertrack/ridesharing-ios) and [Android](https://github.com/hypertrack/ridesharing-android).
-
-* [Requirements](#requirements)
-* [Add to your project](#add-to-your-project)
-* [Documentation](#documentation)
-* [FAQs](#frequently-asked-questions)
-* [Contribute](#contribute)
-* [Support](#support)
+# Firebase Cloud Functions 
 
 ## Requirements
 
@@ -88,11 +79,3 @@ cd functions
 npm install
 cd ..
 ```
-
-## Contribute
-Feel free to clone, use, and contribute back via [pull requests](https://help.github.com/articles/about-pull-requests/). We'd love to see your pull requests - send them in! Please use the [issues tracker](https://github.com/hypertrack/ridesharing-firebase/issues) to raise bug reports and feature requests.
-
-We are excited to see what live location feature you build in your app using this project. Do ping us at help@hypertrack.com once you build one, and we would love to feature your app on our blog!
-
-## Support
-Join our [Slack community](https://join.slack.com/t/hypertracksupport/shared_invite/enQtNDA0MDYxMzY1MDMxLTdmNDQ1ZDA1MTQxOTU2NTgwZTNiMzUyZDk0OThlMmJkNmE0ZGI2NGY2ZGRhYjY0Yzc0NTJlZWY2ZmE5ZTA2NjI) for instant responses. You can also email us at help@hypertrack.com.
